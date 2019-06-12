@@ -20,5 +20,8 @@
 }
 
 .edit .edit-p {
-  margin-left: 8em;
+  margin-left: 10em;
+}
+.edit .edi {
+  position: absolute;
 }
